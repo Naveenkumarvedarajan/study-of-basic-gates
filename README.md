@@ -1,4 +1,4 @@
-### study-of-basic-gates
+![image](https://github.com/Naveenkumarvedarajan/study-of-basic-gates/assets/147140428/2051a011-59db-4f64-9e3b-db5dbcdcf5b9)### study-of-basic-gates
 
 **AIM:** 
 
@@ -66,11 +66,30 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
+ Developed by: Naveen kumar V
+ RegisterNumber: 212223230140
+ ```
+module logicgate_top(a,b,y1,y2,y3,y4,y5,y6,y7);
+input a,b;
+output y1,y2,y3,y4,y5,y6,y7;
+and(y1,a,b);
+or(y2,a,b);
+not(y3,a);
+nand(y4,a,b);
+nor(y5,a,b);
+xor(y6,a,b);
+xnor(y7,a,b);
+endmodule
+```
+
 **Logic symbol & Truthtable**
+![logicgate screenshot](https://github.com/Naveenkumarvedarajan/study-of-basic-gates/assets/147140428/d9d734b5-1093-4f4d-8228-73d67a34cda3)
+
 
 **RTL realization Output:** 
+![logicgate Screenshot1](https://github.com/Naveenkumarvedarajan/study-of-basic-gates/assets/147140428/7fff9a5c-6e26-4d0e-b9d8-1a7b6290ad2c)
+
+
 
 **RTL**
 
