@@ -1,4 +1,4 @@
-![image](https://github.com/Naveenkumarvedarajan/study-of-basic-gates/assets/147140428/2051a011-59db-4f64-9e3b-db5dbcdcf5b9)### study-of-basic-gates
+# study-of-basic-gates
 
 **AIM:** 
 
